@@ -1,0 +1,31 @@
+#portada{
+    margin: 30px;
+}
+
+#principal {
+    margin: 30px;
+}
+
+#traslucido{
+    margin-top: 170px;
+    padding: 30px;
+    background-color: rgba(185, 164, 160, 0.4);    
+    border-radius: 5px;
+}
+
+#cargarAutor{
+    margin: 30px;
+}
+
+.margen{
+    margin: 30px;
+    text-decoration: none;
+}
+
+.padding {
+    padding: 30px 0px;
+}
+
+.botones{
+    width: 200px;
+}
